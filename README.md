@@ -1,6 +1,6 @@
 # Hi, I'm Artem
 
-Frontend React Developer
+Middle Frontend Developer
 Building fast scalable and maintainable web applications. Open for hiring.
 
 # Tech Stack:
